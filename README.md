@@ -1,1 +1,0 @@
-# fsp-mini-proj
